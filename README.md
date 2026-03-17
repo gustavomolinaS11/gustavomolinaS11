@@ -31,30 +31,20 @@
 
 ---
 
-### 🛠️ Minha Stack
+### 🛠️ Minha Stack Tecnológica
 
-<table align="center">
-  <tr>
-    <td align="center" width="150"><strong>Backend & Lógica</strong></td>
-    <td align="center" width="150"><strong>Frontend</strong></td>
-    <td align="center" width="150"><strong>Banco de Dados</strong></td>
-    <td align="center" width="150"><strong>Infra & Tools</strong></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=python,java" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,js" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,js,html,css,linux,git,github,vscode" alt="Minhas Habilidades" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gustavomolinaS11&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomolinaS11&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" />
+</p>
 
 ---
 
@@ -72,21 +62,3 @@
 - Geração dinâmica de relatórios operacionais.
 - Distribuição automatizada e segura via e-mail para os setores responsáveis.
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gustavomolinaS11&show_icons=true&theme=tokyonight&border_radius=10" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomolinaS11&layout=compact&theme=tokyonight&border_radius=10" />
-</p>
-
----
-
-<p align="center">
-  <img src="./assets/gif" width="700" alt="Coding GIF" style="border-radius: 10px;" />
-</p>
-
-<p align="center">
-  <i>"A prática leva à perfeição, mas uma arquitetura sólida leva à escalabilidade."</i>
-</p>
