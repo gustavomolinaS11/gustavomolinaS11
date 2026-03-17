@@ -16,8 +16,8 @@
 </p>
 
 <p align="center">
-  <a href="SEU_LINK_LINKEDIN_AQUI"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
-  <a href="mailto:SEU_EMAIL_AQUI"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/gustavo-m-b198a0215/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
+  <a href="mailto:gustavo.molinasalton@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -39,6 +39,15 @@
 
 ---
 
+### 📈 GitHub Stats
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gustavomolinaS11&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomolinaS11&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" />
+</p>
+
+---
+
 ### 🚀 Projetos em Destaque
 
 #### ⚙️ Sistema de Gerenciamento de Chamados (Integração Jira)
@@ -55,11 +64,4 @@
 
 ---
 
-### 📈 GitHub Stats
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gustavomolinaS11&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomolinaS11&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" />
-</p>
-
----
