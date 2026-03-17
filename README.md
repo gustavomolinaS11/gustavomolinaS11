@@ -34,16 +34,7 @@
 ### 🛠️ Minha Stack Tecnológica
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,js,html,css,linux,git,github,vscode" alt="Minhas Habilidades" />
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gustavomolinaS11&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomolinaS11&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=java,python,mysql,windows,linux,js,html,css,git,vscode" alt="Minhas Habilidades" />
 </p>
 
 ---
@@ -62,3 +53,13 @@
 - Geração dinâmica de relatórios operacionais.
 - Distribuição automatizada e segura via e-mail para os setores responsáveis.
 
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gustavomolinaS11&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomolinaS11&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" />
+</p>
+
+---
